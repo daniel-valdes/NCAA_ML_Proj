@@ -1,2 +1,2 @@
 # NCAA March Madness Machine Learning
-Daniel Valdes, Thomas Byrne, Pete Sheldon, Jack Bitcon
+Daniel Valdes, Thomas Byrne
