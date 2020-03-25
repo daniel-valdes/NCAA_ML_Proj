@@ -1,7 +1,6 @@
 # NCAA March Madness Machine Learning
 ### Daniel Valdes, Thomas Byrne, Pete Sheldon, Jack Bitcon
-![bracket]
-(https://www.ncaa.com/sites/default/files/public/styles/original/public-s3/images/2019/04/09/ncaa-tournament-bracket-2019-scores-games-virginia-texas-tech.png?itok=0E3VNWmI)
+![bracket](https://www.ncaa.com/sites/default/files/public/styles/original/public-s3/images/2019/04/09/ncaa-tournament-bracket-2019-scores-games-virginia-texas-tech.png?itok=0E3VNWmI)
 
 Data sourced from: https://www.kaggle.com/c/march-madness-analytics-2020/overview
 
