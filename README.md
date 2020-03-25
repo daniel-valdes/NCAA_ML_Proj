@@ -12,11 +12,11 @@ For machine learning purposes there are multiple approaches we can attempt:
 1. Set our target variable *Y* to Number of Wins and test different independent variables influence on a scaled *Y* (**Multiple Regression**)
 
 2. Divide teams into different groups that denote success and try to classify them (**K Nearest Neighbors**) based on the features we select. This can be achieved by counting the number of wins in the tournament.
-> 1st/2nd Round Exit: Wins <= 1 
-> Sweet Sixteen: Wins = 2 
-> Elite Eight: Wins = 3 
-> Final Four: Wins = 4 
-> Semi-Finalists: Wins = 5 
-> Champion: Wins = 6
+> 1st/2nd Round Exit: Wins <= 1 \
+> Sweet Sixteen: Wins = 2 \
+> Elite Eight: Wins = 3 \
+> Final Four: Wins = 4 \
+> Semi-Finalists: Wins = 5 \ 
+> Champion: Wins = 6 \
 
 3. Model the problem using **Logistic Regression**. To use logistic regression, we need to frame our question in a way such that a binary answer of *1* or *0* (Yes or No) makes sense. For example, we can ask "Did team X advance to the next round?". We can then pass a vector for team X containing our selected features. Those teams that return a 1 advance to the next round and the simulation is run once more.
